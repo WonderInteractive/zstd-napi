@@ -2,7 +2,7 @@ name: CodeQL
 
 on:
   push:
-    branches: [codeql-analysis]
+    branches: [codeql-beta]
 
 jobs:
   analyze:
